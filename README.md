@@ -119,16 +119,6 @@ Configuration folder: `"$HOME/Library/Application Support/GIMP/2.10/"`
 
 > Gimp needs to be installed ([brew](https://formulae.brew.sh/cask/gimp) or [otherwise](https://www.gimp.org/downloads/))
 
-<<<<<<< HEAD
-=======
-What will the [bash](https://raw.githubusercontent.com/MatthijsKamstra/Mac-setup/master/install/photogimp_osx.sh) script do?
-
-* Download `Flatpak.zip` and copies the files to the Gimp folder
-* Creates an OSX PhotoGimp icon
-* Copies icon to Gimp folder
-* Cleans up all files generated/downloaded
-
->>>>>>> 94ab263bec885f5236e7f4548dc51fbac4e21685
 ##### Run bash how to
 
 you can [down](https://raw.githubusercontent.com/MatthijsKamstra/Mac-setup/master/install/photogimp_osx.sh) and run the bash script:
