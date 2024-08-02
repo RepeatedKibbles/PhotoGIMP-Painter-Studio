@@ -174,21 +174,17 @@ sh photogimp_osx.sh
 
 ![Vimg](https://raw.githubusercontent.com/SenlinOS/databox/master/video-demo-img.jpg)
 
-**文字说明：**
+**关于详细的讲解，请看我的视频演示：**
+<br />(无声 / 字幕)
 
-- 对于线条艺术，请查看文字说明：[这里](https://github.com/SenlinOS/databox/blob/master/For-Line-Art_SLOS-GIMPainter.md)。
-- 手动保存临时预设，文字+视频：[这里](https://github.com/SenlinOS/databox/blob/master/manually-save-temporary-presets.md)。
+[在B站的演示视频合集](https://space.bilibili.com/14824534/channel/seriesdetail?sid=1169812&ctype=0)。
 
-**其他提示：**
+对于线艺术，请查看文字说明：[这里](https://github.com/SenlinOS/databox/blob/master/For-Line-Art_SLOS-GIMPainter.md)。
 
-- GNU/Linux(X11) 软件变成描图纸，视频：[这里](https://youtu.be/ArHPMmIMsq8)。
+手动保存临时预设：[这里](https://senlinos.github.io/post/manually-save-temporary-presets/) 和 [这里](https://t.bilibili.com/519640070146405433?tab=2)。
 
-- 如何在 GIMP 中制作透视线，视频：[这里](https://youtu.be/gIp5I0fXdlM)。
+**其他技巧：**
 
-## 贡献者 (PhotoGIMP)
-<a align="center" href="https://github.com/Diolinux/PhotoGIMP/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Diolinux/PhotoGIMP" />
-</a>
+- GNU/Linux(X11)中将软件变成描图纸：[我的B站视频](https://www.bilibili.com/video/BV18R4y1j7g6)。
 
-## 补丁说明
-- [查看葡萄牙语版本说明](https://diolinux.com.br/2020/06/photogimp-2020.html)
+- GIMP中怎样制作透视线：[我的B站视频](https://www.bilibili.com/video/BV1AS4y1V7AB)。

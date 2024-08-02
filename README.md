@@ -1,3 +1,6 @@
+# Languages:
+[English](https://github.com/RepeatedKibbles/PhotoGIMP-Painter-Studio)/[Polish](https://github.com/RepeatedKibbles/PhotoGIMP-Painter-Studio/blob/master/docs/README_pl.md)/[Portuguese (Brazil)](https://github.com/RepeatedKibbles/PhotoGIMP-Painter-Studio/blob/master/docs/README_pt.md)/[Chinese (Simplified)](https://github.com/RepeatedKibbles/PhotoGIMP-Painter-Studio/blob/master/docs/README_zh.md)
+
 NOTE: Although the project is very functional as it is and you probably can use it with minor to no problems, it's important to notice that [I'm](https://github.com/Diolinux) note not able to implement new features or analyze bug reports for now.
 Other than that, enjoy PhotoGIMP Painter Studio! :)
 
