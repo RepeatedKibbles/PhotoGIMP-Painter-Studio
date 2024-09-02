@@ -15,8 +15,8 @@
     (size 1920 1008)
     (open-on-exit)
     (aux-info
-        (left-docks-width "280")
-        (right-docks-width "329")
+        (left-docks-width "323")
+        (right-docks-width "372")
         (maximized "yes"))
     (gimp-toolbox
         (side left)
